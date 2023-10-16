@@ -3,6 +3,7 @@
 - 🌱 Writing discord, telegram bots using python
 - 💻 JavaScript and C++ besties
 - 📫 Email box: medvedicabolsaa@gmail.com
+- 📟 Ubuntu Linux user
 
 <!---
 Zacky3181V/Zacky3181V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
