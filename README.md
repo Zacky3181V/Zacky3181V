@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zacky3181V
 - 🎓 2nd year student of WSIiZ in Rzeszow, Poland (Bachelor's degree)
 - 🌱 Writing discord, telegram bots using python
-- 💻 JavaScript and C++ besties
+- 💻 JavaScript and C# besties
 - 📫 Email box: medvedicabolsaa@gmail.com
 - 📟 Ubuntu Linux user
 
