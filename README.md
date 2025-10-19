@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zacky3181V
-- 🎓 3rd year student of WSIiZ in Rzeszow, Poland (Bachelor's degree)
+- 🎓 Bachelor Graduate @ WSIiZ in Rzeszow, Poland
 - 💻 Full-Time Software Engineer@IBM
 
 
