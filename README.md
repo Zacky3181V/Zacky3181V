@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zacky3181V
 - 🎓 Bachelor Graduate @ WSIiZ in Rzeszow, Poland
-- 💻 Full-Time Software Engineer@IBM
+- 💻 Full-Time Software Engineer @ IBM
 
 
 <!---
